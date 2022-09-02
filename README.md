@@ -1,5 +1,6 @@
 MultiToolScript
-A insanely huge batch script for managing your IT infrastructure
+
+A insanely huge batch file for managing your IT infrastructure
 
 This is a script, which i wrote about 4 years ago.
 Please note, that the descriptions in the script are in german.
