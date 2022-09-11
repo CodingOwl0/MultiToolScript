@@ -1,6 +1,6 @@
 MultiToolScript
 
-A insanely huge batch file for managing your IT infrastructure
+A huge batch file for managing your IT infrastructure
 
 This is a script, which i wrote about 4 years ago.
 Please note, that the descriptions in the script are in german.
@@ -18,4 +18,4 @@ The script needs the "data" folder with the 7za.exe-files in it to be able to cr
 
 Please use this script at your own risk! 
 
-Feel free, to edit and change this script :)
+Feel free to edit and change this script :)
